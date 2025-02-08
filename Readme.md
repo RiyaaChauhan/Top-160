@@ -285,14 +285,14 @@ For example, you might divide the 17 problems over 6 practice days (leaving 1 da
 
 | #  | Problem                                               | Difficulty | Time    |
 |----|-------------------------------------------------------|------------|---------|
-| 1  | [Minimum Window Substring](#)                         | Hard       | 30 mins |
-| 2  | [Serialize and Deserialize Binary Tree](#)            | Hard       | 40 mins |
-| 3  | [Trapping Rain Water](#)                              | Hard       | 35 mins |
-| 4  | [Find Median from Data Stream](#)                     | Hard       | 30 mins |
-| 5  | [Word Ladder](#)                                      | Hard       | 45 mins |
-| 6  | [Basic Calculator](#)                                 | Hard       | 40 mins |
-| 7  | [Maximum Profit in Job Scheduling](#)                 | Hard       | 45 mins |
-| 8  | [Merge k Sorted Lists](#)                             | Hard       | 30 mins |
+| 1  | [Minimum Window Substring](#)                         | Hard🔴     | 30 mins |
+| 2  | [Serialize and Deserialize Binary Tree](#)            | Hard🔴     | 40 mins |
+| 3  | [Trapping Rain Water](#)                              | Hard🔴	  | 35 mins |
+| 4  | [Find Median from Data Stream](#)                     | Hard   🔴  | 30 mins |
+| 5  | [Word Ladder](#)                                      | Hard   🔴  | 45 mins |
+| 6  | [Basic Calculator](#)                                 | Hard   🔴  | 40 mins |
+| 7  | [Maximum Profit in Job Scheduling](#)                 | Hard  🔴   | 45 mins |
+| 8  | [Merge k Sorted Lists](#)                             | Hard   🔴  | 30 mins |
 </details>
 
 ### Week 14 (12 Problems)
@@ -301,18 +301,116 @@ For example, you might divide the 17 problems over 6 practice days (leaving 1 da
 
 | #  | Problem                                                    | Difficulty | Time    |
 |----|------------------------------------------------------------|------------|---------|
-| 1  | [Largest Rectangle in Histogram](#)                        | Hard       | 35 mins |
-| 2  | [Binary Tree Maximum Path Sum](#)                          | Hard       | 35 mins |
-| 3  | [Maximum Frequency Stack](#)                               | Hard       | 40 mins |
-| 4  | [Median of Two Sorted Arrays](#)                           | Hard       | 40 mins |
-| 5  | [Longest Increasing Path in a Matrix](#)                   | Hard       | 40 mins |
-| 6  | [Longest Valid Parentheses](#)                             | Hard       | 35 mins |
-| 7  | [Design In‑Memory File System](#)                          | Hard       | 40 mins |
-| 8  | [Employee Free Time](#)                                    | Hard       | 35 mins |
-| 9  | [Word Search II](#)                                        | Hard       | 40 mins |
-| 10 | [Alien Dictionary](#)                                      | Hard       | 45 mins |
-| 11 | [Bus Routes](#)                                            | Hard       | 45 mins |
-| 12 | [Sliding Window Maximum](#)                                | Hard       | 35 mins |
+| 1  | [Largest Rectangle in Histogram](#)                        | Hard🔴	 | 35 mins |
+| 2  | [Binary Tree Maximum Path Sum](#)                          | Hard🔴   | 35 mins |
+| 3  | [Maximum Frequency Stack](#)                               | Hard🔴   | 40 mins |
+| 4  | [Median of Two Sorted Arrays](#)                           | Hard🔴	      | 40 mins |
+| 5  | [Longest Increasing Path in a Matrix](#)                   | Hard🔴	   | 40 mins |
+| 6  | [Longest Valid Parentheses](#)                             | Hard🔴	     | 35 mins |
+| 7  | [Design In‑Memory File System](#)                          | Hard🔴	      | 40 mins |
+| 8  | [Employee Free Time](#)                                    | Hard🔴	   | 35 mins |
+| 9  | [Word Search II](#)                                        | Hard🔴	    | 40 mins |
+| 10 | [Alien Dictionary](#)                                      | Hard🔴	   | 45 mins |
+| 11 | [Bus Routes](#)                                            | Hard🔴	   | 45 mins |
+| 12 | [Sliding Window Maximum](#)                                | Hard🔴	  | 35 mins |
 </details>
 
 ---
+
+
+
+
+
+
+# Grind 75 - Weekly DSA Challenge
+
+Welcome to the **Grind 75** challenge! This repository contains a structured plan to solve 75 essential Data Structures and Algorithms problems over **14 weeks**. Track your progress using the **Status** column and update it as you complete each problem. 💪
+
+## 🛠️ How to Use
+- Each week contains a set of problems to solve.
+- Mark completed problems by updating the **Status** column (❌ → ✅).
+- Problems are categorized by difficulty:
+  - 🟢 **Easy**
+  - 🟡 **Medium**
+  - 🔴 **Hard**
+
+---
+
+## 📅 Weekly Progress
+
+<details>
+<summary>📌 Week 1 (0 / 17 Completed)</summary>
+
+| # | Problem | Difficulty | Status |
+|---|---------|------------|--------|
+| 1 | Two Sum | 🟢 Easy | ❌ |
+| 2 | Valid Parentheses | 🟢 Easy | ❌ |
+| 3 | Merge Two Sorted Lists | 🟢 Easy | ❌ |
+| 4 | Best Time to Buy and Sell Stock | 🟢 Easy | ❌ |
+| 5 | Valid Palindrome | 🟢 Easy | ❌ |
+| 6 | Invert Binary Tree | 🟢 Easy | ❌ |
+| 7 | Valid Anagram | 🟢 Easy | ❌ |
+| 8 | Binary Search | 🟢 Easy | ❌ |
+| 9 | Flood Fill | 🟢 Easy | ❌ |
+| 10 | Lowest Common Ancestor of a BST | 🟢 Easy | ❌ |
+| 11 | Balanced Binary Tree | 🟢 Easy | ❌ |
+| 12 | Linked List Cycle | 🟢 Easy | ❌ |
+| 13 | Implement Queue using Stacks | 🟢 Easy | ❌ |
+| 14 | First Bad Version | 🟢 Easy | ❌ |
+| 15 | Ransom Note | 🟢 Easy | ❌ |
+| 16 | Climbing Stairs | 🟢 Easy | ❌ |
+| 17 | Longest Palindrome | 🟢 Easy | ❌ |
+
+</details>
+
+<details>
+<summary>📌 Week 2 (0 / 16 Completed)</summary>
+
+| # | Problem | Difficulty | Status |
+|---|---------|------------|--------|
+| 1 | Reverse Linked List | 🟢 Easy | ❌ |
+| 2 | Majority Element | 🟢 Easy | ❌ |
+| 3 | Add Binary | 🟢 Easy | ❌ |
+| 4 | Diameter of Binary Tree | 🟢 Easy | ❌ |
+| 5 | Middle of the Linked List | 🟢 Easy | ❌ |
+| 6 | Maximum Depth of Binary Tree | 🟢 Easy | ❌ |
+| 7 | Contains Duplicate | 🟢 Easy | ❌ |
+| 8 | Meeting Rooms | 🟢 Easy | ❌ |
+| 9 | Roman to Integer | 🟢 Easy | ❌ |
+| 10 | Backspace String Compare | 🟢 Easy | ❌ |
+| 11 | Counting Bits | 🟢 Easy | ❌ |
+| 12 | Same Tree | 🟢 Easy | ❌ |
+| 13 | Number of 1 Bits | 🟢 Easy | ❌ |
+| 14 | Longest Common Prefix | 🟢 Easy | ❌ |
+| 15 | Single Number | 🟢 Easy | ❌ |
+| 16 | Palindrome Linked List | 🟢 Easy | ❌ |
+
+</details>
+
+<details>
+<summary>📌 Week 3 (0 / 13 Completed)</summary>
+
+| # | Problem | Difficulty | Status |
+|---|---------|------------|--------|
+| 1 | Move Zeroes | 🟢 Easy | ❌ |
+| 2 | Symmetric Tree | 🟢 Easy | ❌ |
+| 3 | Missing Number | 🟢 Easy | ❌ |
+| 4 | Palindrome Number | 🟢 Easy | ❌ |
+| 5 | Convert Sorted Array to BST | 🟢 Easy | ❌ |
+| 6 | Reverse Bits | 🟢 Easy | ❌ |
+| 7 | Subtree of Another Tree | 🟡 Medium | ❌ |
+| 8 | Squares of a Sorted Array | 🟡 Medium | ❌ |
+| 9 | Maximum Subarray | 🟡 Medium | ❌ |
+| 10 | Insert Interval | 🟡 Medium | ❌ |
+| 11 | 01 Matrix | 🟡 Medium | ❌ |
+| 12 | K Closest Points to Origin | 🟡 Medium | ❌ |
+| 13 | Longest Substring Without Repeating Characters | 🟡 Medium | ❌ |
+
+</details>
+
+---
+
+### ✅ Keep Going!
+- Update your progress weekly.
+- Aim to complete all **75 problems** in **14 weeks**!
+- Happy Coding 🚀
