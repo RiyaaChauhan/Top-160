@@ -80,8 +80,8 @@ Questions grouped by topics
 <details>
 <summary><strong>📌 Week 3 (0 / 13 Completed)</strong></summary>
 
-| #  | Problem                                                                                 | Difficulty | Status |
-|----|-----------------------------------------------------------------------------------------|------------|--------|
+| #  | Problem                                                                                 | Difficulty | Status | Date Assigned |
+|----|-----------------------------------------------------------------------------------------|------------|--------|--------------|
 | 1  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                               | 🟢 Easy    | ❌     |
 | 2  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                         | 🟢 Easy    | ❌     |
 | 3  | [Missing Number](https://leetcode.com/problems/missing-number/)                         | 🟢 Easy    | ❌     |
@@ -101,8 +101,8 @@ Questions grouped by topics
 <details>
 <summary><strong>📌 Week 4 (0 / 11 Completed)</strong></summary>
 
-| # | Problem | Difficulty | Status |
-|---|---------|------------|--------|
+| # | Problem | Difficulty | Status | Date Assigned |
+|---|---------|------------|--------|---------------|
 | 1 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | ❌ |
 | 2 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 Medium | ❌ |
 | 3 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | 🟡 Medium | ❌ |
@@ -119,8 +119,8 @@ Questions grouped by topics
 <details>
 <summary><strong>📌 Week 5 (0 / 10 Completed)</strong></summary>
 
-| # | Problem | Difficulty | Status |
-|---|---------|------------|--------|
+| # | Problem | Difficulty | Status | Date Assigned |
+|---|---------|------------|--------|---------------|
 | 1 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | ❌ |
 | 2 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | ❌ |
 | 3 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 Medium | ❌ |
@@ -136,8 +136,8 @@ Questions grouped by topics
 <details>
 <summary><strong>📌 Week 6 (0 / 11 Completed)</strong></summary>
 
-| # | Problem | Difficulty | Status |
-|---|---------|------------|--------|
+| # | Problem | Difficulty | Status | Date Assigned |
+|---|---------|------------|--------|---------------|
 | 1 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | 🟡 Medium | ❌ |
 | 2 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | ❌ |
 | 3 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | ❌ |
@@ -154,8 +154,8 @@ Questions grouped by topics
 <details>
 <summary><strong>📌 Week 7 (0 / 10 Completed)</strong></summary>
 
-| # | Problem | Difficulty | Status |
-|---|---------|------------|--------|
+| # | Problem | Difficulty | Status | Date Assigned |
+|---|---------|------------|--------|---------------|
 | 1 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | 🟡 Medium | ❌ |
 | 2 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | 🟡 Medium | ❌ |
 | 3 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | 🟡 Medium | ❌ |
@@ -171,8 +171,8 @@ Questions grouped by topics
 <details>
 <summary><strong>📌 Week 8 (0 / 10 Completed)</strong></summary>
 
-| # | Problem | Difficulty | Status |
-|---|---------|------------|--------|
+| # | Problem | Difficulty | Status | Date Assigned |
+|---|---------|------------|--------|---------------|
 | 1 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | ❌ |
 | 2 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 Medium | ❌ |
 | 3 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) |  🟡 Medium | ❌ |
@@ -188,8 +188,8 @@ Questions grouped by topics
 <details>
   <summary><strong>📌 Week 9 (0 / 11 Completed)</strong></summary>
 
-| # | Problem | Difficulty | Time |
-|---|---------|------------|------|
+| # | Problem | Difficulty | Time | Date Assigned |
+|---|---------|------------|------|---------------|
 | 1 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | 🟡 Medium | 35 mins |
 | 2 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | 🟡 Medium | 25 mins |
 | 3 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | 🟡 Medium | 25 mins |
@@ -207,8 +207,8 @@ Questions grouped by topics
 <details>
   <summary><strong>📌 Week 10 (0 / 10 Completed)</strong></summary>
 
-| # | Problem | Difficulty | Status |
-|---|---------|------------|--------|
+| # | Problem | Difficulty | Status | Date Assigned |
+|---|---------|------------|--------|---------------|
 | 1 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | 🟡 Medium | ❌ |
 | 2 | [Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | ❌ |
 | 3 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | ❌ |
@@ -224,8 +224,8 @@ Questions grouped by topics
 <details>
   <summary><strong>📌 Week 11 (0 / 11 Completed)</strong></summary>
 
-| # | Problem | Difficulty | Status |
-|---|---------|------------|--------|
+| # | Problem | Difficulty | Status |Date Assigned |
+|---|---------|------------|--------|--------------|
 | 1 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | ❌ |
 | 2 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | 🟡 Medium | ❌ |
 | 3 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | ❌ |
@@ -242,8 +242,8 @@ Questions grouped by topics
 <details>
   <summary><strong>📌 Week 12 (0 / 10 Completed)</strong></summary>
 
-| # | Problem | Difficulty | Status |
-|---|---------|------------|--------|
+| # | Problem | Difficulty | Status |Date Assigned |
+|---|---------|------------|--------|--------------|
 | 1 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 🟡 Medium | ❌ |
 | 2 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 Medium | ❌ |
 | 3 | [Reorder List](https://leetcode.com/problems/reorder-list/) | 🟡 Medium | ❌ |
@@ -259,8 +259,8 @@ Questions grouped by topics
 <details>
   <summary><strong>📌 Week 13 (0 / 08 Completed)</strong></summary>
 
-| # | Problem | Difficulty | Status |
-|---|---------|------------|--------|
+| # | Problem | Difficulty | Status | Date Assigned |
+|---|---------|------------|--------|---------------|
 | 1 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | ❌ |
 | 2 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | 🔴 Hard | ❌ |
 | 3 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | ❌ |
