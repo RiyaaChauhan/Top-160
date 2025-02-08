@@ -32,7 +32,7 @@ Questions grouped by topics
 <summary><strong>📌 Week 1 (0 / 17 Completed)</strong></summary>
 
 | #  | Problem                                                                                 | Difficulty | Status | Date Assigned |
-|----|-----------------------------------------------------------------------------------------|------------|--------|
+|----|-----------------------------------------------------------------------------------------|------------|--------|---------------|
 | 1  | [Two Sum](https://leetcode.com/problems/two-sum/)                                       | 🟢 Easy    | ❌     | 09-02-2025 |
 | 2  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                   | 🟢 Easy    | ❌     | 09-02-2025 |
 | 3  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)         | 🟢 Easy    | ❌     | 09-02-2025 |
