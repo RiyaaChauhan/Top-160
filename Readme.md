@@ -1,5 +1,31 @@
 # Grind 75 - Weekly DSA Challenge
 
+## Difficulty
+Questions grouped by difficulty
+
+**Easy 🟢:** 41
+**Medium 🟡:** 99
+**Hard 🔴:** 20
+
+## Topics
+Questions grouped by topics
+
+**Array:** 23
+**Binary:** 7
+**Binary Search:** 8
+**Binary Search Tree:** 5
+**Binary Tree:** 18
+**Dynamic Programming:** 11
+**Graph:** 21
+**Hash Table:** 1
+**Heap:** 7
+**Linked List:** 13
+**Math:** 5
+**Matrix:** 4
+**Queue:** 1
+**Recursion:** 5
+**Stack:** 14
+
 ## 📅 Weekly Progress
 
 <details>
