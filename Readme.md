@@ -242,33 +242,33 @@ Questions grouped by topics
 <details>
   <summary><strong>📌 Week 12 (0 / 10 Completed)</strong></summary>
 
-| #  | Problem                                                   | Difficulty | Time    |
-|----|-----------------------------------------------------------|------------|---------|
-| 1  | [Reverse Integer](#)                                      | Medium     | 25 mins |
-| 2  | [Set Matrix Zeroes](#)                                    | Medium     | 25 mins |
-| 3  | [Reorder List](#)                                         | Medium     | 25 mins |
-| 4  | [Encode and Decode Strings](#)                            | Medium     | 25 mins |
-| 5  | [Cheapest Flights Within K Stops](#)                      | Medium     | 45 mins |
-| 6  | [All Nodes Distance K in Binary Tree](#)                  | Medium     | 25 mins |
-| 7  | [3Sum Closest](#)                                         | Medium     | 30 mins |
-| 8  | [Rotate List](#)                                          | Medium     | 25 mins |
-| 9  | [Find Minimum in Rotated Sorted Array](#)                 | Medium     | 30 mins |
-| 10 | [Basic Calculator II](#)                                  | Medium     | 30 mins |
+| # | Problem | Difficulty | Status |
+|---|---------|------------|--------|
+| 1 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 🟡 Medium | ❌ |
+| 2 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 Medium | ❌ |
+| 3 | [Reorder List](https://leetcode.com/problems/reorder-list/) | 🟡 Medium | ❌ |
+| 4 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | 🟡 Medium | ❌ |
+| 5 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | 🟡 Medium | ❌ |
+| 6 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | 🟡 Medium | ❌ |
+| 7 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | 🟡 Medium | ❌ |
+| 8 | [Rotate List](https://leetcode.com/problems/rotate-list/) | 🟡 Medium | ❌ |
+| 9 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 Medium | ❌ |
+| 10 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | 🟡 Medium | ❌ |
 </details>
 
 <details>
   <summary><strong>📌 Week 13 (0 / 08 Completed)</strong></summary>
 
-| #  | Problem                                               | Difficulty | Time    |
-|----|-------------------------------------------------------|------------|---------|
-| 1  | [Minimum Window Substring](#)                         | Hard🔴     | 30 mins |
-| 2  | [Serialize and Deserialize Binary Tree](#)            | Hard🔴     | 40 mins |
-| 3  | [Trapping Rain Water](#)                              | Hard🔴	  | 35 mins |
-| 4  | [Find Median from Data Stream](#)                     | Hard   🔴  | 30 mins |
-| 5  | [Word Ladder](#)                                      | Hard   🔴  | 45 mins |
-| 6  | [Basic Calculator](#)                                 | Hard   🔴  | 40 mins |
-| 7  | [Maximum Profit in Job Scheduling](#)                 | Hard  🔴   | 45 mins |
-| 8  | [Merge k Sorted Lists](#)                             | Hard   🔴  | 30 mins |
+| # | Problem | Difficulty | Status |
+|---|---------|------------|--------|
+| 1 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | ❌ |
+| 2 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | 🔴 Hard | ❌ |
+| 3 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | ❌ |
+| 4 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 🔴 Hard | ❌ |
+| 5 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | 🔴 Hard | ❌ |
+| 6 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | 🔴 Hard | ❌ |
+| 7 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | 🔴 Hard | ❌ |
+| 8 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard | ❌ |
 </details>
 
 <details>
