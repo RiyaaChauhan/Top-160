@@ -121,16 +121,16 @@ Questions grouped by topics
 
 | # | Problem | Difficulty | Status |
 |---|---------|------------|--------|
-| 1 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🤝 Medium | ❌ |
-| 2 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🤝 Medium | ❌ |
-| 3 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | 🤝 Medium | ❌ |
-| 4 | [Permutations](https://leetcode.com/problems/permutations/) | 🤝 Medium | ❌ |
-| 5 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🤝 Medium | ❌ |
-| 6 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🤝 Medium | ❌ |
-| 7 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | 🤝 Medium | ❌ |
-| 8 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | 🤝 Medium | ❌ |
-| 9 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🤝 Medium | ❌ |
-| 10 | [Word Break](https://leetcode.com/problems/word-break/) | 🤝 Medium | ❌ |
+| 1 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | ❌ |
+| 2 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | ❌ |
+| 3 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 Medium | ❌ |
+| 4 | [Permutations](https://leetcode.com/problems/permutations/) | 🟡 Medium | ❌ |
+| 5 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | ❌ |
+| 6 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | ❌ |
+| 7 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | 🟡 Medium | ❌ |
+| 8 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | 🟡 Medium | ❌ |
+| 9 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | ❌ |
+| 10 | [Word Break](https://leetcode.com/problems/word-break/) | 🟡 Medium | ❌ |
 </details>
 
 <details>
@@ -138,17 +138,17 @@ Questions grouped by topics
 
 | # | Problem | Difficulty | Status |
 |---|---------|------------|--------|
-| 1 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | 💟 Medium | ❌ |
-| 2 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 💟 Medium | ❌ |
-| 3 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 💟 Medium | ❌ |
-| 4 | [Subsets](https://leetcode.com/problems/subsets/) | 💟 Medium | ❌ |
-| 5 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 💟 Medium | ❌ |
-| 6 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 💟 Medium | ❌ |
-| 7 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 💟 Medium | ❌ |
-| 8 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 💟 Medium | ❌ |
-| 9 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 💟 Medium | ❌ |
-| 10 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 💟 Medium | ❌ |
-| 11 | [Word Search](https://leetcode.com/problems/word-search/) | 💟 Medium | ❌ |
+| 1 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | 🟡 Medium | ❌ |
+| 2 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | ❌ |
+| 3 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | ❌ |
+| 4 | [Subsets](https://leetcode.com/problems/subsets/) | 🟡 Medium | ❌ |
+| 5 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 🟡 Medium | ❌ |
+| 6 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | ❌ |
+| 7 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | ❌ |
+| 8 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 🟡 Medium | ❌ |
+| 9 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | ❌ |
+| 10 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | ❌ |
+| 11 | [Word Search](https://leetcode.com/problems/word-search/) | 🟡 Medium | ❌ |
 </details>
 
 <details>
@@ -156,16 +156,16 @@ Questions grouped by topics
 
 | # | Problem | Difficulty | Status |
 |---|---------|------------|--------|
-| 1 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | 💟 Medium | ❌ |
-| 2 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | 💟 Medium | ❌ |
-| 3 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | 💟 Medium | ❌ |
-| 4 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | 💟 Medium | ❌ |
-| 5 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 💟 Medium | ❌ |
-| 6 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 💟 Medium | ❌ |
-| 7 | [House Robber](https://leetcode.com/problems/house-robber/) | 💟 Medium | ❌ |
-| 8 | [Gas Station](https://leetcode.com/problems/gas-station/) | 💟 Medium | ❌ |
-| 9 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 💟 Medium | ❌ |
-| 10 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 💟 Medium | ❌ |
+| 1 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | 🟡 Medium | ❌ |
+| 2 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | 🟡 Medium | ❌ |
+| 3 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | 🟡 Medium | ❌ |
+| 4 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 Medium | ❌ |
+| 5 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟡 Medium | ❌ |
+| 6 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | ❌ |
+| 7 | [House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | ❌ |
+| 8 | [Gas Station](https://leetcode.com/problems/gas-station/) | 🟡 Medium | ❌ |
+| 9 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | ❌ |
+| 10 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | ❌ |
 </details>
 
 <details>
@@ -173,16 +173,16 @@ Questions grouped by topics
 
 | # | Problem | Difficulty | Status |
 |---|---------|------------|--------|
-| 1 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 💟 Medium | ❌ |
-| 2 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 💟 Medium | ❌ |
-| 3 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | 💟 Medium | ❌ |
-| 4 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | 💟 Medium | ❌ |
-| 5 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 💟 Medium | ❌ |
-| 6 | [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/) | 💟 Medium | ❌ |
-| 7 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | 💟 Medium | ❌ |
-| 8 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | 💟 Medium | ❌ |
-| 9 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 💟 Medium | ❌ |
-| 10 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | 💟 Medium | ❌ |
+| 1 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | ❌ |
+| 2 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 Medium | ❌ |
+| 3 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) |  🟡 Medium | ❌ |
+| 4 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | 🟡 Medium | ❌ |
+| 5 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | ❌ |
+| 6 | [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/) | 🟡 Medium | ❌ |
+| 7 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | 🟡 Medium | ❌ |
+| 8 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | 🟡 Medium | ❌ |
+| 9 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | ❌ |
+| 10 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | 🟡 Medium | ❌ |
 </details>
 
 <details>
