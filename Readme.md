@@ -138,17 +138,17 @@ Questions grouped by topics
 
 | #  | Problem                                                          | Difficulty | Status    |
 |----|------------------------------------------------------------------|------------|---------|
-| 1  | [Partition Equal Subset Sum](#)                                  | Medium     | ❌ |
-| 2  | [String to Integer (atoi)](#)                                    | Medium     | ❌ |
-| 3  | [Spiral Matrix](#)                                               | Medium     | ❌ |
-| 4  | [Subsets](#)                                                     | Medium     | ❌ |
-| 5  | [Binary Tree Right Side View](#)                                 | Medium     | ❌ |
-| 6  | [Longest Palindromic Substring](#)                               | Medium     | ❌ |
-| 7  | [Unique Paths](#)                                                | Medium     | ❌ |
-| 8  | [Construct Binary Tree from Preorder and Inorder Traversal](#)   | Medium     | ❌ |
-| 9  | [Container With Most Water](#)                                   | Medium     | ❌ |
-| 10 | [Letter Combinations of a Phone Number](#)                       | Medium     | ❌ |
-| 11 | [Word Search](#)                                                 | Medium     | ❌ |
+| 1  | [Partition Equal Subset Sum](#)                                  |🟡 Medium     | ❌ |
+| 2  | [String to Integer (atoi)](#)                                    |🟡 Medium     | ❌ |
+| 3  | [Spiral Matrix](#)                                               |🟡 Medium     | ❌ |
+| 4  | [Subsets](#)                                                     |🟡 Medium     | ❌ |
+| 5  | [Binary Tree Right Side View](#)                                 |🟡 Medium     | ❌ |
+| 6  | [Longest Palindromic Substring](#)                               |🟡 Medium     | ❌ |
+| 7  | [Unique Paths](#)                                                |🟡 Medium     | ❌ |
+| 8  | [Construct Binary Tree from Preorder and Inorder Traversal](#)   |🟡 Medium     | ❌ |
+| 9  | [Container With Most Water](#)                                   |🟡 Medium     | ❌ |
+| 10 | [Letter Combinations of a Phone Number](#)                       |🟡 Medium     | ❌ |
+| 11 | [Word Search](#)                                                 |🟡 Medium     | ❌ |
 </details>
 
 <details>
@@ -156,16 +156,16 @@ Questions grouped by topics
 
 | #  | Problem                                          | Difficulty | Status    |
 |----|--------------------------------------------------|------------|---------|
-| 1  | [Find All Anagrams in a String](#)               | Medium     | ❌ |
-| 2  | [Minimum Height Trees](#)                        | Medium     | ❌ |
-| 3  | [Task Scheduler](#)                              | Medium     | ❌ |
-| 4  | [LRU Cache](#)                                   | Medium     | ❌ |
-| 5  | [Kth Smallest Element in a BST](#)               | Medium     | ❌ |
-| 6  | [Daily Temperatures](#)                          | Medium     | ❌ |
-| 7  | [House Robber](#)                                | Medium     | ❌ |
-| 8  | [Gas Station](#)                                 | Medium     | ❌ |
-| 9  | [Next Permutation](#)                            | Medium     | ❌ |
-| 10 | [Valid Sudoku](#)                                | Medium     | ❌ |
+| 1  | [Find All Anagrams in a String](#)               |🟡 Medium     | ❌ |
+| 2  | [Minimum Height Trees](#)                        |🟡 Medium     | ❌ |
+| 3  | [Task Scheduler](#)                              |🟡 Medium     | ❌ |
+| 4  | [LRU Cache](#)                                   |🟡 Medium     | ❌ |
+| 5  | [Kth Smallest Element in a BST](#)               |🟡 Medium     | ❌ |
+| 6  | [Daily Temperatures](#)                          |🟡 Medium     | ❌ |
+| 7  | [House Robber](#)                                |🟡 Medium     | ❌ |
+| 8  | [Gas Station](#)                                 |🟡 Medium     | ❌ |
+| 9  | [Next Permutation](#)                            |🟡 Medium     | ❌ |
+| 10 | [Valid Sudoku](#)                                |🟡 Medium     | ❌ |
 </details>
 
 <details>
@@ -173,16 +173,16 @@ Questions grouped by topics
 
 | #  | Problem                                               | Difficulty | Time    |
 |----|-------------------------------------------------------|------------|---------|
-| 1  | [Group Anagrams](#)                                   | Medium     | 25 mins |
-| 2  | [Maximum Product Subarray](#)                         | Medium     | 30 mins |
-| 3  | [Design Add and Search Words Data Structure](#)       | Medium     | 35 mins |
-| 4  | [Pacific Atlantic Water Flow](#)                      | Medium     | 30 mins |
-| 5  | [Remove Nth Node From End of List](#)                 | Medium     | 20 mins |
-| 6  | [Shortest Path to Get Food](#)                        | Medium     | 30 mins |
-| 7  | [Find the Duplicate Number](#)                        | Medium     | 20 mins |
-| 8  | [Top K Frequent Words](#)                             | Medium     | 30 mins |
-| 9  | [Longest Increasing Subsequence](#)                   | Medium     | 30 mins |
-| 10 | [Graph Valid Tree](#)                                 | Medium     | 30 mins |
+| 1  | [Group Anagrams](#)                                   |🟡 Medium     | 25 mins |
+| 2  | [Maximum Product Subarray](#)                         |🟡 Medium     | 30 mins |
+| 3  | [Design Add and Search Words Data Structure](#)       |🟡 Medium     | 35 mins |
+| 4  | [Pacific Atlantic Water Flow](#)                      |🟡 Medium     | 30 mins |
+| 5  | [Remove Nth Node From End of List](#)                 |🟡 Medium     | 20 mins |
+| 6  | [Shortest Path to Get Food](#)                        |🟡 Medium     | 30 mins |
+| 7  | [Find the Duplicate Number](#)                        |🟡 Medium     | 20 mins |
+| 8  | [Top K Frequent Words](#)                             |🟡 Medium     | 30 mins |
+| 9  | [Longest Increasing Subsequence](#)                   |🟡 Medium     | 30 mins |
+| 10 | [Graph Valid Tree](#)                                 |🟡 Medium     | 30 mins |
 </details>
 
 <details>
@@ -190,17 +190,17 @@ Questions grouped by topics
 
 | #  | Problem                                                     | Difficulty | Time    |
 |----|-------------------------------------------------------------|------------|---------|
-| 1  | [Course Schedule II](#)                                      | Medium     | 35 mins |
-| 2  | [Swap Nodes in Pairs](#)                                     | Medium     | 25 mins |
-| 3  | [Path Sum II](#)                                             | Medium     | 25 mins |
-| 4  | [Longest Consecutive Sequence](#)                            | Medium     | 30 mins |
-| 5  | [Rotate Array](#)                                            | Medium     | 25 mins |
-| 6  | [Odd Even Linked List](#)                                    | Medium     | 25 mins |
-| 7  | [Decode String](#)                                           | Medium     | 30 mins |
-| 8  | [Contiguous Array](#)                                        | Medium     | 30 mins |
-| 9  | [Maximum Width of Binary Tree](#)                            | Medium     | 20 mins |
-| 10 | [Find K Closest Elements](#)                                 | Medium     | 30 mins |
-| 11 | [Longest Repeating Character Replacement](#)               | Medium     | 30 mins |
+| 1  | [Course Schedule II](#)                                      |🟡 Medium     | 35 mins |
+| 2  | [Swap Nodes in Pairs](#)                                     |🟡 Medium     | 25 mins |
+| 3  | [Path Sum II](#)                                             |🟡 Medium     | 25 mins |
+| 4  | [Longest Consecutive Sequence](#)                            |🟡 Medium     | 30 mins |
+| 5  | [Rotate Array](#)                                            |🟡 Medium     | 25 mins |
+| 6  | [Odd Even Linked List](#)                                    |🟡 Medium     | 25 mins |
+| 7  | [Decode String](#)                                           |🟡 Medium     | 30 mins |
+| 8  | [Contiguous Array](#)                                        |🟡 Medium     | 30 mins |
+| 9  | [Maximum Width of Binary Tree](#)                            |🟡 Medium     | 20 mins |
+| 10 | [Find K Closest Elements](#)                                 |🟡 Medium     | 30 mins |
+| 11 | [Longest Repeating Character Replacement](#)                 |🟡 Medium     | 30 mins |
 </details>
 
 <details>
@@ -208,16 +208,16 @@ Questions grouped by topics
 
 | #  | Problem                                                | Difficulty | Time    |
 |----|--------------------------------------------------------|------------|---------|
-| 1  | [Inorder Successor in BST](#)                          | Medium     | 30 mins |
-| 2  | [Jump Game](#)                                         | Medium     | 20 mins |
-| 3  | [Add Two Numbers](#)                                   | Medium     | 25 mins |
-| 4  | [Generate Parentheses](#)                              | Medium     | 25 mins |
-| 5  | [Sort List](#)                                         | Medium     | 25 mins |
-| 6  | [Number of Connected Components in an Undirected Graph](#) | Medium  | 30 mins |
-| 7  | [Minimum Knight Moves](#)                              | Medium     | 35 mins |
-| 8  | [Subarray Sum Equals K](#)                             | Medium     | 35 mins |
-| 9  | [Asteroid Collision](#)                                | Medium     | 30 mins |
-| 10 | [Random Pick with Weight](#)                           | Medium     | 25 mins |
+| 1  | [Inorder Successor in BST](#)                          |🟡 Medium     | 30 mins |
+| 2  | [Jump Game](#)                                         |🟡 Medium     | 20 mins |
+| 3  | [Add Two Numbers](#)                                   |🟡 Medium     | 25 mins |
+| 4  | [Generate Parentheses](#)                              |🟡 Medium     | 25 mins |
+| 5  | [Sort List](#)                                         |🟡 Medium     | 25 mins |
+| 6  | [Number of Connected Components in an Undirected Graph](#) |🟡 Medium  | 30 mins |
+| 7  | [Minimum Knight Moves](#)                              |🟡 Medium     | 35 mins |
+| 8  | [Subarray Sum Equals K](#)                             |🟡 Medium     | 35 mins |
+| 9  | [Asteroid Collision](#)                                |🟡 Medium     | 30 mins |
+| 10 | [Random Pick with Weight](#)                           |🟡 Medium     | 25 mins |
 </details>
 
 <details>
