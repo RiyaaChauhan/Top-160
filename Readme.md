@@ -324,22 +324,10 @@ For example, you might divide the 17 problems over 6 practice days (leaving 1 da
 
 # Grind 75 - Weekly DSA Challenge
 
-Welcome to the **Grind 75** challenge! This repository contains a structured plan to solve 75 essential Data Structures and Algorithms problems over **14 weeks**. Track your progress using the **Status** column and update it as you complete each problem. 💪
-
-## 🛠️ How to Use
-- Each week contains a set of problems to solve.
-- Mark completed problems by updating the **Status** column (❌ → ✅).
-- Problems are categorized by difficulty:
-  - 🟢 **Easy**
-  - 🟡 **Medium**
-  - 🔴 **Hard**
-
----
-
 ## 📅 Weekly Progress
 
 <details>
-<summary>📌 Week 1 (0 / 17 Completed)</summary>
+<summary><strong>📌 Week 1 (0 / 17 Completed)</strong></summary>
 
 | # | Problem | Difficulty | Status |
 |---|---------|------------|--------|
@@ -364,7 +352,7 @@ Welcome to the **Grind 75** challenge! This repository contains a structured pla
 </details>
 
 <details>
-<summary>📌 Week 2 (0 / 16 Completed)</summary>
+<summary><strong>📌 Week 2 (0 / 16 Completed)</strong></summary>
 
 | # | Problem | Difficulty | Status |
 |---|---------|------------|--------|
@@ -388,7 +376,7 @@ Welcome to the **Grind 75** challenge! This repository contains a structured pla
 </details>
 
 <details>
-<summary>📌 Week 3 (0 / 13 Completed)</summary>
+<summary><strong>📌 Week 3 (0 / 13 Completed)</strong></summary>
 
 | # | Problem | Difficulty | Status |
 |---|---------|------------|--------|
@@ -411,24 +399,193 @@ Welcome to the **Grind 75** challenge! This repository contains a structured pla
 <details>
   <summary><strong>📌 Week 4 (0 / 11 Completed)</strong></summary>
 
-| #  | Problem                                                | Difficulty | Time    |
+| #  | Problem                                                | Difficulty | Status    |
 |----|--------------------------------------------------------|------------|---------|
-| 1  | [3Sum](#)                                             | Medium     | 30 mins |
-| 2  | [Binary Tree Level Order Traversal](#)                 | Medium     | 20 mins |
-| 3  | [Clone Graph](#)                                      | Medium     | 25 mins |
-| 4  | [Evaluate Reverse Polish Notation](#)                 | Medium     | 30 mins |
-| 5  | [Course Schedule](#)                                  | Medium     | 30 mins |
-| 6  | [Implement Trie (Prefix Tree)](#)                     | Medium     | 35 mins |
-| 7  | [Coin Change](#)                                      | Medium     | 25 mins |
-| 8  | [Product of Array Except Self](#)                     | Medium     | 30 mins |
-| 9  | [Min Stack](#)                                        | Medium     | 20 mins |
-| 10 | [Validate Binary Search Tree](#)                      | Medium     | 20 mins |
-| 11 | [Number of Islands](#)                                | Medium     | 25 mins |
+| 1  | [3Sum](#)                                             | Medium     | ❌ |
+| 2  | [Binary Tree Level Order Traversal](#)                 | Medium     | ❌ |
+| 3  | [Clone Graph](#)                                      | Medium     | ❌ |
+| 4  | [Evaluate Reverse Polish Notation](#)                 | Medium     | ❌ |
+| 5  | [Course Schedule](#)                                  | Medium     | ❌ |
+| 6  | [Implement Trie (Prefix Tree)](#)                     | Medium     | ❌ |
+| 7  | [Coin Change](#)                                      | Medium     | ❌ |
+| 8  | [Product of Array Except Self](#)                     | Medium     | ❌ |
+| 9  | [Min Stack](#)                                        | Medium     | ❌ |
+| 10 | [Validate Binary Search Tree](#)                      | Medium     | ❌ |
+| 11 | [Number of Islands](#)                                | Medium     | ❌ |
 </details>
 
----
+<details>
+  <summary><strong>📌 Week 5 (0 / 10 Completed)</strong></summary>
 
-### ✅ Keep Going!
-- Update your progress weekly.
-- Aim to complete all **75 problems** in **14 weeks**!
-- Happy Coding 🚀
+| #  | Problem                                           | Difficulty | Status    |
+|----|---------------------------------------------------|------------|---------|
+| 1  | [Rotting Oranges](#)                              | Medium     | ❌ |
+| 2  | [Search in Rotated Sorted Array](#)               | Medium     | ❌ |
+| 3  | [Combination Sum](#)                              | Medium     | ❌ |
+| 4  | [Permutations](#)                                 | Medium     | ❌ |
+| 5  | [Merge Intervals](#)                              | Medium     | ❌ |
+| 6  | [Lowest Common Ancestor of a Binary Tree](#)      | Medium     | ❌ |
+| 7  | [Time Based Key-Value Store](#)                   | Medium     | ❌ |
+| 8  | [Accounts Merge](#)                               | Medium     | ❌ |
+| 9  | [Sort Colors](#)                                  | Medium     | ❌ |
+| 10 | [Word Break](#)                                   | Medium     | ❌ |
+</details>
+
+<details>
+  <summary><strong>📌 Week 6 (0 / 11 Completed)</strong></summary>
+
+| #  | Problem                                                          | Difficulty | Status    |
+|----|------------------------------------------------------------------|------------|---------|
+| 1  | [Partition Equal Subset Sum](#)                                  | Medium     | ❌ |
+| 2  | [String to Integer (atoi)](#)                                    | Medium     | ❌ |
+| 3  | [Spiral Matrix](#)                                               | Medium     | ❌ |
+| 4  | [Subsets](#)                                                     | Medium     | ❌ |
+| 5  | [Binary Tree Right Side View](#)                                 | Medium     | ❌ |
+| 6  | [Longest Palindromic Substring](#)                               | Medium     | ❌ |
+| 7  | [Unique Paths](#)                                                | Medium     | ❌ |
+| 8  | [Construct Binary Tree from Preorder and Inorder Traversal](#)   | Medium     | ❌ |
+| 9  | [Container With Most Water](#)                                   | Medium     | ❌ |
+| 10 | [Letter Combinations of a Phone Number](#)                       | Medium     | ❌ |
+| 11 | [Word Search](#)                                                 | Medium     | ❌ |
+</details>
+
+<details>
+  <summary><strong>📌 Week 7 (0 / 10 Completed)</strong></summary>
+
+| #  | Problem                                          | Difficulty | Status    |
+|----|--------------------------------------------------|------------|---------|
+| 1  | [Find All Anagrams in a String](#)               | Medium     | ❌ |
+| 2  | [Minimum Height Trees](#)                        | Medium     | ❌ |
+| 3  | [Task Scheduler](#)                              | Medium     | ❌ |
+| 4  | [LRU Cache](#)                                   | Medium     | ❌ |
+| 5  | [Kth Smallest Element in a BST](#)               | Medium     | ❌ |
+| 6  | [Daily Temperatures](#)                          | Medium     | ❌ |
+| 7  | [House Robber](#)                                | Medium     | ❌ |
+| 8  | [Gas Station](#)                                 | Medium     | ❌ |
+| 9  | [Next Permutation](#)                            | Medium     | ❌ |
+| 10 | [Valid Sudoku](#)                                | Medium     | ❌ |
+</details>
+
+<details>
+  <summary><strong>📌 Week 8 (0 / 10 Completed)</strong></summary>
+
+| #  | Problem                                               | Difficulty | Time    |
+|----|-------------------------------------------------------|------------|---------|
+| 1  | [Group Anagrams](#)                                   | Medium     | 25 mins |
+| 2  | [Maximum Product Subarray](#)                         | Medium     | 30 mins |
+| 3  | [Design Add and Search Words Data Structure](#)       | Medium     | 35 mins |
+| 4  | [Pacific Atlantic Water Flow](#)                      | Medium     | 30 mins |
+| 5  | [Remove Nth Node From End of List](#)                 | Medium     | 20 mins |
+| 6  | [Shortest Path to Get Food](#)                        | Medium     | 30 mins |
+| 7  | [Find the Duplicate Number](#)                        | Medium     | 20 mins |
+| 8  | [Top K Frequent Words](#)                             | Medium     | 30 mins |
+| 9  | [Longest Increasing Subsequence](#)                   | Medium     | 30 mins |
+| 10 | [Graph Valid Tree](#)                                 | Medium     | 30 mins |
+</details>
+
+<details>
+  <summary><strong>📌 Week 9 (0 / 11 Completed)</strong></summary>
+
+| #  | Problem                                                     | Difficulty | Time    |
+|----|-------------------------------------------------------------|------------|---------|
+| 1  | [Course Schedule II](#)                                      | Medium     | 35 mins |
+| 2  | [Swap Nodes in Pairs](#)                                     | Medium     | 25 mins |
+| 3  | [Path Sum II](#)                                             | Medium     | 25 mins |
+| 4  | [Longest Consecutive Sequence](#)                            | Medium     | 30 mins |
+| 5  | [Rotate Array](#)                                            | Medium     | 25 mins |
+| 6  | [Odd Even Linked List](#)                                    | Medium     | 25 mins |
+| 7  | [Decode String](#)                                           | Medium     | 30 mins |
+| 8  | [Contiguous Array](#)                                        | Medium     | 30 mins |
+| 9  | [Maximum Width of Binary Tree](#)                            | Medium     | 20 mins |
+| 10 | [Find K Closest Elements](#)                                 | Medium     | 30 mins |
+| 11 | [Longest Repeating Character Replacement](#)               | Medium     | 30 mins |
+</details>
+
+<details>
+  <summary><strong>📌 Week 10 (0 / 10 Completed)</strong></summary>
+
+| #  | Problem                                                | Difficulty | Time    |
+|----|--------------------------------------------------------|------------|---------|
+| 1  | [Inorder Successor in BST](#)                          | Medium     | 30 mins |
+| 2  | [Jump Game](#)                                         | Medium     | 20 mins |
+| 3  | [Add Two Numbers](#)                                   | Medium     | 25 mins |
+| 4  | [Generate Parentheses](#)                              | Medium     | 25 mins |
+| 5  | [Sort List](#)                                         | Medium     | 25 mins |
+| 6  | [Number of Connected Components in an Undirected Graph](#) | Medium  | 30 mins |
+| 7  | [Minimum Knight Moves](#)                              | Medium     | 35 mins |
+| 8  | [Subarray Sum Equals K](#)                             | Medium     | 35 mins |
+| 9  | [Asteroid Collision](#)                                | Medium     | 30 mins |
+| 10 | [Random Pick with Weight](#)                           | Medium     | 25 mins |
+</details>
+
+<details>
+  <summary><strong>📌 Week 11 (0 / 11 Completed)</strong></summary>
+
+| #  | Problem                                                    | Difficulty | Time    |
+|----|------------------------------------------------------------|------------|---------|
+| 1  | [Kth Largest Element in an Array](#)                       | Medium     | 30 mins |
+| 2  | [Maximal Square](#)                                        | Medium     | 30 mins |
+| 3  | [Rotate Image](#)                                          | Medium     | 25 mins |
+| 4  | [Binary Tree Zigzag Level Order Traversal](#)              | Medium     | 25 mins |
+| 5  | [Design Hit Counter](#)                                    | Medium     | 30 mins |
+| 6  | [Path Sum III](#)                                          | Medium     | 35 mins |
+| 7  | [Pow(x, n)](#)                                             | Medium     | 20 mins |
+| 8  | [Search a 2D Matrix](#)                                    | Medium     | 30 mins |
+| 9  | [Largest Number](#)                                        | Medium     | 20 mins |
+| 10 | [Decode Ways](#)                                           | Medium     | 25 mins |
+| 11 | [Meeting Rooms II](#)                                      | Medium     | 30 mins |
+</details>
+
+<details>
+  <summary><strong>📌 Week 12 (0 / 10 Completed)</strong></summary>
+
+| #  | Problem                                                   | Difficulty | Time    |
+|----|-----------------------------------------------------------|------------|---------|
+| 1  | [Reverse Integer](#)                                      | Medium     | 25 mins |
+| 2  | [Set Matrix Zeroes](#)                                    | Medium     | 25 mins |
+| 3  | [Reorder List](#)                                         | Medium     | 25 mins |
+| 4  | [Encode and Decode Strings](#)                            | Medium     | 25 mins |
+| 5  | [Cheapest Flights Within K Stops](#)                      | Medium     | 45 mins |
+| 6  | [All Nodes Distance K in Binary Tree](#)                  | Medium     | 25 mins |
+| 7  | [3Sum Closest](#)                                         | Medium     | 30 mins |
+| 8  | [Rotate List](#)                                          | Medium     | 25 mins |
+| 9  | [Find Minimum in Rotated Sorted Array](#)                 | Medium     | 30 mins |
+| 10 | [Basic Calculator II](#)                                  | Medium     | 30 mins |
+</details>
+
+<details>
+  <summary><strong>📌 Week 13 (0 / 08 Completed)</strong></summary>
+
+| #  | Problem                                               | Difficulty | Time    |
+|----|-------------------------------------------------------|------------|---------|
+| 1  | [Minimum Window Substring](#)                         | Hard🔴     | 30 mins |
+| 2  | [Serialize and Deserialize Binary Tree](#)            | Hard🔴     | 40 mins |
+| 3  | [Trapping Rain Water](#)                              | Hard🔴	  | 35 mins |
+| 4  | [Find Median from Data Stream](#)                     | Hard   🔴  | 30 mins |
+| 5  | [Word Ladder](#)                                      | Hard   🔴  | 45 mins |
+| 6  | [Basic Calculator](#)                                 | Hard   🔴  | 40 mins |
+| 7  | [Maximum Profit in Job Scheduling](#)                 | Hard  🔴   | 45 mins |
+| 8  | [Merge k Sorted Lists](#)                             | Hard   🔴  | 30 mins |
+</details>
+
+<details>
+  <summary><strong>📌 Week 14 (0 / 12 Completed)</strong></summary>
+
+| #  | Problem                                                    | Difficulty | Time    |
+|----|------------------------------------------------------------|------------|---------|
+| 1  | [Largest Rectangle in Histogram](#)                        | Hard🔴	 | 35 mins |
+| 2  | [Binary Tree Maximum Path Sum](#)                          | Hard🔴   | 35 mins |
+| 3  | [Maximum Frequency Stack](#)                               | Hard🔴   | 40 mins |
+| 4  | [Median of Two Sorted Arrays](#)                           | Hard🔴	      | 40 mins |
+| 5  | [Longest Increasing Path in a Matrix](#)                   | Hard🔴	   | 40 mins |
+| 6  | [Longest Valid Parentheses](#)                             | Hard🔴	     | 35 mins |
+| 7  | [Design In‑Memory File System](#)                          | Hard🔴	      | 40 mins |
+| 8  | [Employee Free Time](#)                                    | Hard🔴	   | 35 mins |
+| 9  | [Word Search II](#)                                        | Hard🔴	    | 40 mins |
+| 10 | [Alien Dictionary](#)                                      | Hard🔴	   | 45 mins |
+| 11 | [Bus Routes](#)                                            | Hard🔴	   | 45 mins |
+| 12 | [Sliding Window Maximum](#)                                | Hard🔴	  | 35 mins |
+</details>
+
+
+---
