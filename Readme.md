@@ -10,112 +10,116 @@ Questions grouped by difficulty
 ## Topics
 Questions grouped by topics
 
-**Array:** 23
-**Binary:** 7
-**Binary Search:** 8
-**Binary Search Tree:** 5
-**Binary Tree:** 18
-**Dynamic Programming:** 11
-**Graph:** 21
-**Hash Table:** 1
-**Heap:** 7
-**Linked List:** 13
-**Math:** 5
-**Matrix:** 4
-**Queue:** 1
-**Recursion:** 5
-**Stack:** 14
+**Array:** [23](https://leetcode.com/tag/array/)  
+**Binary:** [7](https://leetcode.com/tag/binary/)  
+**Binary Search:** [8](https://leetcode.com/tag/binary-search/)  
+**Binary Search Tree:** [5](https://leetcode.com/tag/binary-search-tree/)  
+**Binary Tree:** [18](https://leetcode.com/tag/binary-tree/)  
+**Dynamic Programming:** [11](https://leetcode.com/tag/dynamic-programming/)  
+**Graph:** [21](https://leetcode.com/tag/graph/)  
+**Hash Table:** [1](https://leetcode.com/tag/hash-table/)  
+**Heap:** [7](https://leetcode.com/tag/heap/)  
+**Linked List:** [13](https://leetcode.com/tag/linked-list/)  
+**Math:** [5](https://leetcode.com/tag/math/)  
+**Matrix:** [4](https://leetcode.com/tag/matrix/)  
+**Queue:** [1](https://leetcode.com/tag/queue/)  
+**Recursion:** [5](https://leetcode.com/tag/recursion/)  
+**Stack:** [14](https://leetcode.com/tag/stack/)  
 
 ## 📅 Weekly Progress
 
 <details>
 <summary><strong>📌 Week 1 (0 / 17 Completed)</strong></summary>
 
-| # | Problem | Difficulty | Status |
-|---|---------|------------|--------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | 🟢 Easy | ❌ |
-| 2 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | 🟢 Easy | ❌ |
-| 3 | [Merge Two Sorted Lists](URL) | 🟢 Easy | ❌ |
-| 4 | [Best Time to Buy and Sell Stock](URL) | 🟢 Easy | ❌ |
-| 5 | [Valid Palindrome](URL) | 🟢 Easy | ❌ |
-| 6 | [Invert Binary Tree](URL) | 🟢 Easy | ❌ |
-| 7 | [Valid Anagram](URL) | 🟢 Easy | ❌ |
-| 8 | [Binary Search](URL) | 🟢 Easy | ❌ |
-| 9 | [Flood Fill](URL) | 🟢 Easy | ❌ |
-| 10 | [Lowest Common Ancestor of a BST](URL) | 🟢 Easy | ❌ |
-| 11 | [Balanced Binary Tree](URL) | 🟢 Easy | ❌ |
-| 12 | [Linked List Cycle](URL) | 🟢 Easy | ❌ |
-| 13 | [Implement Queue using Stacks](URL) | 🟢 Easy | ❌ |
-| 14 | [First Bad Version](URL) | 🟢 Easy | ❌ |
-| 15 | [Ransom Note](URL) | 🟢 Easy | ❌ |
-| 16 | [Climbing Stairs](URL) | 🟢 Easy | ❌ |
-| 17 | [Longest Palindrome](URL) | 🟢 Easy | ❌ |
+| #  | Problem                                                                                 | Difficulty | Status |
+|----|-----------------------------------------------------------------------------------------|------------|--------|
+| 1  | [Two Sum](https://leetcode.com/problems/two-sum/)                                       | 🟢 Easy    | ❌     |
+| 2  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                   | 🟢 Easy    | ❌     |
+| 3  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)         | 🟢 Easy    | ❌     |
+| 4  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy    | ❌     |
+| 5  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                     | 🟢 Easy    | ❌     |
+| 6  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                 | 🟢 Easy    | ❌     |
+| 7  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                           | 🟢 Easy    | ❌     |
+| 8  | [Binary Search](https://leetcode.com/problems/binary-search/)                           | 🟢 Easy    | ❌     |
+| 9  | [Flood Fill](https://leetcode.com/problems/flood-fill/)                                 | 🟢 Easy    | ❌     |
+| 10 | [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 🟢 Easy    | ❌     |
+| 11 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)             | 🟢 Easy    | ❌     |
+| 12 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                   | 🟢 Easy    | ❌     |
+| 13 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | 🟢 Easy    | ❌     |
+| 14 | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                   | 🟢 Easy    | ❌     |
+| 15 | [Ransom Note](https://leetcode.com/problems/ransom-note/)                               | 🟢 Easy    | ❌     |
+| 16 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                       | 🟢 Easy    | ❌     |
+| 17 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)                 | 🟢 Easy    | ❌     |
 
 </details>
 
 <details>
 <summary><strong>📌 Week 2 (0 / 16 Completed)</strong></summary>
 
-| # | Problem | Difficulty | Status |
-|---|---------|------------|--------|
-| 1 | [Reverse Linked List](URL) | 🟢 Easy | ❌ |
-| 2 | [Majority Element](URL) | 🟢 Easy | ❌ |
-| 3 | [Add Binary](URL) | 🟢 Easy | ❌ |
-| 4 | [Diameter of Binary Tree](URL) | 🟢 Easy | ❌ |
-| 5 | [Middle of the Linked List](URL) | 🟢 Easy | ❌ |
-| 6 | [Maximum Depth of Binary Tree](URL) | 🟢 Easy | ❌ |
-| 7 | [Contains Duplicate](URL) | 🟢 Easy | ❌ |
-| 8 | [Meeting Rooms](URL) | 🟢 Easy | ❌ |
-| 9 | [Roman to Integer](URL) | 🟢 Easy | ❌ |
-| 10 | [Backspace String Compare](URL) | 🟢 Easy | ❌ |
-| 11 | [Counting Bits](URL) | 🟢 Easy | ❌ |
-| 12 | [Same Tree](URL) | 🟢 Easy | ❌ |
-| 13 | [Number of 1 Bits](URL) | 🟢 Easy | ❌ |
-| 14 | [Longest Common Prefix](URL) | 🟢 Easy | ❌ |
-| 15 | [Single Number](URL) | 🟢 Easy | ❌ |
-| 16 | [Palindrome Linked List](URL) | 🟢 Easy | ❌ |
+| #  | Problem                                                                                 | Difficulty | Status |
+|----|-----------------------------------------------------------------------------------------|------------|--------|
+| 1  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)               | 🟢 Easy    | ❌     |
+| 2  | [Majority Element](https://leetcode.com/problems/majority-element/)                     | 🟢 Easy    | ❌     |
+| 3  | [Add Binary](https://leetcode.com/problems/add-binary/)                                 | 🟢 Easy    | ❌     |
+| 4  | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)       | 🟢 Easy    | ❌     |
+| 5  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)   | 🟢 Easy    | ❌     |
+| 6  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 🟢 Easy    | ❌     |
+| 7  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                 | 🟢 Easy    | ❌     |
+| 8  | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)                           | 🟢 Easy    | ❌     |
+| 9  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                     | 🟢 Easy    | ❌     |
+| 10 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)     | 🟢 Easy    | ❌     |
+| 11 | [Counting Bits](https://leetcode.com/problems/counting-bits/)                           | 🟢 Easy    | ❌     |
+| 12 | [Same Tree](https://leetcode.com/problems/same-tree/)                                   | 🟢 Easy    | ❌     |
+| 13 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                     | 🟢 Easy    | ❌     |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)           | 🟢 Easy    | ❌     |
+| 15 | [Single Number](https://leetcode.com/problems/single-number/)                           | 🟢 Easy    | ❌     |
+| 16 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)         | 🟢 Easy    | ❌     |
 
 </details>
 
 <details>
 <summary><strong>📌 Week 3 (0 / 13 Completed)</strong></summary>
 
-| # | Problem | Difficulty | Status |
-|---|---------|------------|--------|
-| 1 | [Move Zeroes](URL) | 🟢 Easy | ❌ |
-| 2 | [Symmetric Tree](URL) | 🟢 Easy | ❌ |
-| 3 | [Missing Number](URL) | 🟢 Easy | ❌ |
-| 4 | [Palindrome Number](URL) | 🟢 Easy | ❌ |
-| 5 | [Convert Sorted Array to BST](URL) | 🟢 Easy | ❌ |
-| 6 | [Reverse Bits](URL) | 🟢 Easy | ❌ |
-| 7 | [Subtree of Another Tree](URL) | 🟡 Medium | ❌ |
-| 8 | [Squares of a Sorted Array](URL) | 🟡 Medium | ❌ |
+| #  | Problem                                                                                 | Difficulty | Status |
+|----|-----------------------------------------------------------------------------------------|------------|--------|
+| 1  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                               | 🟢 Easy    | ❌     |
+| 2  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                         | 🟢 Easy    | ❌     |
+| 3  | [Missing Number](https://leetcode.com/problems/missing-number/)                         | 🟢 Easy    | ❌     |
+| 4  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                   | 🟢 Easy    | ❌     |
+| 5  | [Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | 🟢 Easy    | ❌     |
+| 6  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                             | 🟢 Easy    | ❌     |
+| 7  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)       | 🟡 Medium  | ❌     |
+| 8  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)   | 🟡 Medium  | ❌     |
 | 9 | [Maximum Subarray](URL) | 🟡 Medium | ❌ |
-| 10 | [Insert Interval](URL) | 🟡 Medium | ❌ |
-| 11 | [01 Matrix](URL) | 🟡 Medium | ❌ |
-| 12 | [K Closest Points to Origin](URL) | 🟡 Medium | ❌ |
-| 13 | [Longest Substring Without Repeating Characters](URL) | 🟡 Medium | ❌ |
+| 10 | [Insert Interval](https://leetcode.com/problems/insert-interval/)                       | 🟡 Medium  | ❌     |
+| 11 | [01 Matrix](https://leetcode.com/problems/01-matrix/)                                   | 🟡 Medium  | ❌     |
+| 12 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 🟡 Medium  | ❌     |
+| 13 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium  | ❌     |
 
 </details>
 
 </details>
+
 
 <details>
-  <summary><strong>📌 Week 4 (0 / 11 Completed)</strong></summary>
+<summary><strong>📌 Week 4 (0 / 14 Completed)</strong></summary>
 
-| #  | Problem                                                | Difficulty | Status    |
-|----|--------------------------------------------------------|------------|---------|
-| 1  | [3Sum](#)                                             | 🟡 Medium     | ❌ |
-| 2  | [Binary Tree Level Order Traversal](#)                 |🟡 Medium     | ❌ |
-| 3  | [Clone Graph](#)                                      | 🟡 Medium     | ❌ |
-| 4  | [Evaluate Reverse Polish Notation](#)                 | 🟡 Medium     | ❌ |
-| 5  | [Course Schedule](#)                                  | 🟡 Medium     | ❌ |
-| 6  | [Implement Trie (Prefix Tree)](#)                     | 🟡 Medium     | ❌ |
-| 7  | [Coin Change](#)                                      | 🟡 Medium     | ❌ |
-| 8  | [Product of Array Except Self](#)                     | 🟡 Medium     | ❌ |
-| 9  | [Min Stack](#)                                        | 🟡 Medium     | ❌ |
-| 10 | [Validate Binary Search Tree](#)                      | 🟡 Medium     | ❌ |
-| 11 | [Number of Islands](#)                                | 🟡 Medium     | ❌ |
+| # | Problem | Difficulty | Status |
+|---|---------|------------|--------|
+| 1 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | ❌ |
+| 2 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 Medium | ❌ |
+| 3 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟡 Medium | ❌ |
+| 4 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | 🟡 Medium | ❌ |
+| 5 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 Medium | ❌ |
+| 6 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 Medium | ❌ |
+| 7 | [Word Search](https://leetcode.com/problems/word-search/) | 🟡 Medium | ❌ |
+| 8 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | 🟡 Medium | ❌ |
+| 9 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | 🟡 Medium | ❌ |
+| 10 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 🟡 Medium | ❌ |
+| 11 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 Medium | ❌ |
+| 12 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟡 Medium | ❌ |
+| 13 | [Combinations](https://leetcode.com/problems/combinations/) | 🟡 Medium | ❌ |
+| 14 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | 🔴 Hard | ❌ |
 </details>
 
 <details>
