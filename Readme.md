@@ -103,17 +103,17 @@ Questions grouped by topics
 
 | #  | Problem                                                | Difficulty | Status    |
 |----|--------------------------------------------------------|------------|---------|
-| 1  | [3Sum](#)                                             | Medium     | ❌ |
-| 2  | [Binary Tree Level Order Traversal](#)                 | Medium     | ❌ |
-| 3  | [Clone Graph](#)                                      | Medium     | ❌ |
-| 4  | [Evaluate Reverse Polish Notation](#)                 | Medium     | ❌ |
-| 5  | [Course Schedule](#)                                  | Medium     | ❌ |
-| 6  | [Implement Trie (Prefix Tree)](#)                     | Medium     | ❌ |
-| 7  | [Coin Change](#)                                      | Medium     | ❌ |
-| 8  | [Product of Array Except Self](#)                     | Medium     | ❌ |
-| 9  | [Min Stack](#)                                        | Medium     | ❌ |
-| 10 | [Validate Binary Search Tree](#)                      | Medium     | ❌ |
-| 11 | [Number of Islands](#)                                | Medium     | ❌ |
+| 1  | [3Sum](#)                                             | 🟡 Medium     | ❌ |
+| 2  | [Binary Tree Level Order Traversal](#)                 |🟡 Medium     | ❌ |
+| 3  | [Clone Graph](#)                                      | 🟡 Medium     | ❌ |
+| 4  | [Evaluate Reverse Polish Notation](#)                 | 🟡 Medium     | ❌ |
+| 5  | [Course Schedule](#)                                  | 🟡 Medium     | ❌ |
+| 6  | [Implement Trie (Prefix Tree)](#)                     | 🟡 Medium     | ❌ |
+| 7  | [Coin Change](#)                                      | 🟡 Medium     | ❌ |
+| 8  | [Product of Array Except Self](#)                     | 🟡 Medium     | ❌ |
+| 9  | [Min Stack](#)                                        | 🟡 Medium     | ❌ |
+| 10 | [Validate Binary Search Tree](#)                      | 🟡 Medium     | ❌ |
+| 11 | [Number of Islands](#)                                | 🟡 Medium     | ❌ |
 </details>
 
 <details>
@@ -121,16 +121,16 @@ Questions grouped by topics
 
 | #  | Problem                                           | Difficulty | Status    |
 |----|---------------------------------------------------|------------|---------|
-| 1  | [Rotting Oranges](#)                              | Medium     | ❌ |
-| 2  | [Search in Rotated Sorted Array](#)               | Medium     | ❌ |
-| 3  | [Combination Sum](#)                              | Medium     | ❌ |
-| 4  | [Permutations](#)                                 | Medium     | ❌ |
-| 5  | [Merge Intervals](#)                              | Medium     | ❌ |
-| 6  | [Lowest Common Ancestor of a Binary Tree](#)      | Medium     | ❌ |
-| 7  | [Time Based Key-Value Store](#)                   | Medium     | ❌ |
-| 8  | [Accounts Merge](#)                               | Medium     | ❌ |
-| 9  | [Sort Colors](#)                                  | Medium     | ❌ |
-| 10 | [Word Break](#)                                   | Medium     | ❌ |
+| 1  | [Rotting Oranges](#)                              |🟡 Medium     | ❌ |
+| 2  | [Search in Rotated Sorted Array](#)               |🟡 Medium     | ❌ |
+| 3  | [Combination Sum](#)                              |🟡 Medium     | ❌ |
+| 4  | [Permutations](#)                                 |🟡 Medium     | ❌ |
+| 5  | [Merge Intervals](#)                              |🟡 Medium     | ❌ |
+| 6  | [Lowest Common Ancestor of a Binary Tree](#)      |🟡 Medium     | ❌ |
+| 7  | [Time Based Key-Value Store](#)                   |🟡 Medium     | ❌ |
+| 8  | [Accounts Merge](#)                               |🟡 Medium     | ❌ |
+| 9  | [Sort Colors](#)                                  |🟡 Medium     | ❌ |
+| 10 | [Word Break](#)                                   |🟡 Medium     | ❌ |
 </details>
 
 <details>
