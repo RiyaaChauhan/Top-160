@@ -33,8 +33,8 @@ Questions grouped by topics
 
 | # | Problem | Difficulty | Status |
 |---|---------|------------|--------|
-| 1 | [Two Sum](URL) | 🟢 Easy | ❌ |
-| 2 | [Valid Parentheses](URL) | 🟢 Easy | ❌ |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | 🟢 Easy | ❌ |
+| 2 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | 🟢 Easy | ❌ |
 | 3 | [Merge Two Sorted Lists](URL) | 🟢 Easy | ❌ |
 | 4 | [Best Time to Buy and Sell Stock](URL) | 🟢 Easy | ❌ |
 | 5 | [Valid Palindrome](URL) | 🟢 Easy | ❌ |
