@@ -56,8 +56,8 @@ Questions grouped by topics
 <details>
 <summary><strong>📌 Week 2 (0 / 16 Completed)</strong></summary>
 
-| #  | Problem                                                                                 | Difficulty | Status |
-|----|-----------------------------------------------------------------------------------------|------------|--------|
+| #  | Problem                                                                                 | Difficulty | Status | Date Assigned |
+|----|-----------------------------------------------------------------------------------------|------------|--------|---------------|
 | 1  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)               | 🟢 Easy    | ❌     |
 | 2  | [Majority Element](https://leetcode.com/problems/majority-element/)                     | 🟢 Easy    | ❌     |
 | 3  | [Add Binary](https://leetcode.com/problems/add-binary/)                                 | 🟢 Easy    | ❌     |
