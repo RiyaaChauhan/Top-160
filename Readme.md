@@ -31,11 +31,11 @@ Questions grouped by topics
 <details>
 <summary><strong>📌 Week 1 (0 / 17 Completed)</strong></summary>
 
-| #  | Problem                                                                                 | Difficulty | Status |
+| #  | Problem                                                                                 | Difficulty | Status | Date Assigned |
 |----|-----------------------------------------------------------------------------------------|------------|--------|
-| 1  | [Two Sum](https://leetcode.com/problems/two-sum/)                                       | 🟢 Easy    | ❌     |
-| 2  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                   | 🟢 Easy    | ❌     |
-| 3  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)         | 🟢 Easy    | ❌     |
+| 1  | [Two Sum](https://leetcode.com/problems/two-sum/)                                       | 🟢 Easy    | ❌     | 09-02-2025 |
+| 2  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                   | 🟢 Easy    | ❌     | 09-02-2025 |
+| 3  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)         | 🟢 Easy    | ❌     | 09-02-2025 |
 | 4  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy    | ❌     |
 | 5  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                     | 🟢 Easy    | ❌     |
 | 6  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                 | 🟢 Easy    | ❌     |
