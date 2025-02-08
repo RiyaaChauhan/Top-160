@@ -33,23 +33,23 @@ Questions grouped by topics
 
 | # | Problem | Difficulty | Status |
 |---|---------|------------|--------|
-| 1 | Two Sum | 🟢 Easy | ❌ |
-| 2 | Valid Parentheses | 🟢 Easy | ❌ |
-| 3 | Merge Two Sorted Lists | 🟢 Easy | ❌ |
-| 4 | Best Time to Buy and Sell Stock | 🟢 Easy | ❌ |
-| 5 | Valid Palindrome | 🟢 Easy | ❌ |
-| 6 | Invert Binary Tree | 🟢 Easy | ❌ |
-| 7 | Valid Anagram | 🟢 Easy | ❌ |
-| 8 | Binary Search | 🟢 Easy | ❌ |
-| 9 | Flood Fill | 🟢 Easy | ❌ |
-| 10 | Lowest Common Ancestor of a BST | 🟢 Easy | ❌ |
-| 11 | Balanced Binary Tree | 🟢 Easy | ❌ |
-| 12 | Linked List Cycle | 🟢 Easy | ❌ |
-| 13 | Implement Queue using Stacks | 🟢 Easy | ❌ |
-| 14 | First Bad Version | 🟢 Easy | ❌ |
-| 15 | Ransom Note | 🟢 Easy | ❌ |
-| 16 | Climbing Stairs | 🟢 Easy | ❌ |
-| 17 | Longest Palindrome | 🟢 Easy | ❌ |
+| 1 | [Two Sum](URL) | 🟢 Easy | ❌ |
+| 2 | [Valid Parentheses](URL) | 🟢 Easy | ❌ |
+| 3 | [Merge Two Sorted Lists](URL) | 🟢 Easy | ❌ |
+| 4 | [Best Time to Buy and Sell Stock](URL) | 🟢 Easy | ❌ |
+| 5 | [Valid Palindrome](URL) | 🟢 Easy | ❌ |
+| 6 | [Invert Binary Tree](URL) | 🟢 Easy | ❌ |
+| 7 | [Valid Anagram](URL) | 🟢 Easy | ❌ |
+| 8 | [Binary Search](URL) | 🟢 Easy | ❌ |
+| 9 | [Flood Fill](URL) | 🟢 Easy | ❌ |
+| 10 | [Lowest Common Ancestor of a BST](URL) | 🟢 Easy | ❌ |
+| 11 | [Balanced Binary Tree](URL) | 🟢 Easy | ❌ |
+| 12 | [Linked List Cycle](URL) | 🟢 Easy | ❌ |
+| 13 | [Implement Queue using Stacks](URL) | 🟢 Easy | ❌ |
+| 14 | [First Bad Version](URL) | 🟢 Easy | ❌ |
+| 15 | [Ransom Note](URL) | 🟢 Easy | ❌ |
+| 16 | [Climbing Stairs](URL) | 🟢 Easy | ❌ |
+| 17 | [Longest Palindrome](URL) | 🟢 Easy | ❌ |
 
 </details>
 
@@ -58,22 +58,22 @@ Questions grouped by topics
 
 | # | Problem | Difficulty | Status |
 |---|---------|------------|--------|
-| 1 | Reverse Linked List | 🟢 Easy | ❌ |
-| 2 | Majority Element | 🟢 Easy | ❌ |
-| 3 | Add Binary | 🟢 Easy | ❌ |
-| 4 | Diameter of Binary Tree | 🟢 Easy | ❌ |
-| 5 | Middle of the Linked List | 🟢 Easy | ❌ |
-| 6 | Maximum Depth of Binary Tree | 🟢 Easy | ❌ |
-| 7 | Contains Duplicate | 🟢 Easy | ❌ |
-| 8 | Meeting Rooms | 🟢 Easy | ❌ |
-| 9 | Roman to Integer | 🟢 Easy | ❌ |
-| 10 | Backspace String Compare | 🟢 Easy | ❌ |
-| 11 | Counting Bits | 🟢 Easy | ❌ |
-| 12 | Same Tree | 🟢 Easy | ❌ |
-| 13 | Number of 1 Bits | 🟢 Easy | ❌ |
-| 14 | Longest Common Prefix | 🟢 Easy | ❌ |
-| 15 | Single Number | 🟢 Easy | ❌ |
-| 16 | Palindrome Linked List | 🟢 Easy | ❌ |
+| 1 | [Reverse Linked List](URL) | 🟢 Easy | ❌ |
+| 2 | [Majority Element](URL) | 🟢 Easy | ❌ |
+| 3 | [Add Binary](URL) | 🟢 Easy | ❌ |
+| 4 | [Diameter of Binary Tree](URL) | 🟢 Easy | ❌ |
+| 5 | [Middle of the Linked List](URL) | 🟢 Easy | ❌ |
+| 6 | [Maximum Depth of Binary Tree](URL) | 🟢 Easy | ❌ |
+| 7 | [Contains Duplicate](URL) | 🟢 Easy | ❌ |
+| 8 | [Meeting Rooms](URL) | 🟢 Easy | ❌ |
+| 9 | [Roman to Integer](URL) | 🟢 Easy | ❌ |
+| 10 | [Backspace String Compare](URL) | 🟢 Easy | ❌ |
+| 11 | [Counting Bits](URL) | 🟢 Easy | ❌ |
+| 12 | [Same Tree](URL) | 🟢 Easy | ❌ |
+| 13 | [Number of 1 Bits](URL) | 🟢 Easy | ❌ |
+| 14 | [Longest Common Prefix](URL) | 🟢 Easy | ❌ |
+| 15 | [Single Number](URL) | 🟢 Easy | ❌ |
+| 16 | [Palindrome Linked List](URL) | 🟢 Easy | ❌ |
 
 </details>
 
@@ -82,19 +82,21 @@ Questions grouped by topics
 
 | # | Problem | Difficulty | Status |
 |---|---------|------------|--------|
-| 1 | Move Zeroes | 🟢 Easy | ❌ |
-| 2 | Symmetric Tree | 🟢 Easy | ❌ |
-| 3 | Missing Number | 🟢 Easy | ❌ |
-| 4 | Palindrome Number | 🟢 Easy | ❌ |
-| 5 | Convert Sorted Array to BST | 🟢 Easy | ❌ |
-| 6 | Reverse Bits | 🟢 Easy | ❌ |
-| 7 | Subtree of Another Tree | 🟡 Medium | ❌ |
-| 8 | Squares of a Sorted Array | 🟡 Medium | ❌ |
-| 9 | Maximum Subarray | 🟡 Medium | ❌ |
-| 10 | Insert Interval | 🟡 Medium | ❌ |
-| 11 | 01 Matrix | 🟡 Medium | ❌ |
-| 12 | K Closest Points to Origin | 🟡 Medium | ❌ |
-| 13 | Longest Substring Without Repeating Characters | 🟡 Medium | ❌ |
+| 1 | [Move Zeroes](URL) | 🟢 Easy | ❌ |
+| 2 | [Symmetric Tree](URL) | 🟢 Easy | ❌ |
+| 3 | [Missing Number](URL) | 🟢 Easy | ❌ |
+| 4 | [Palindrome Number](URL) | 🟢 Easy | ❌ |
+| 5 | [Convert Sorted Array to BST](URL) | 🟢 Easy | ❌ |
+| 6 | [Reverse Bits](URL) | 🟢 Easy | ❌ |
+| 7 | [Subtree of Another Tree](URL) | 🟡 Medium | ❌ |
+| 8 | [Squares of a Sorted Array](URL) | 🟡 Medium | ❌ |
+| 9 | [Maximum Subarray](URL) | 🟡 Medium | ❌ |
+| 10 | [Insert Interval](URL) | 🟡 Medium | ❌ |
+| 11 | [01 Matrix](URL) | 🟡 Medium | ❌ |
+| 12 | [K Closest Points to Origin](URL) | 🟡 Medium | ❌ |
+| 13 | [Longest Substring Without Repeating Characters](URL) | 🟡 Medium | ❌ |
+
+</details>
 
 </details>
 
