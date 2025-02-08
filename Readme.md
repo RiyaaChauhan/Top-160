@@ -292,3 +292,38 @@ Questions grouped by topics
 
 
 ---
+
+
+
+
+
+
+
+<details>
+  <summary>Week 1</summary>
+
+  <details>
+    <summary>Easy Problems</summary>
+    
+  - [Problem 1](https://leetcode.com/problems/example) 🟢 Easy
+  - [Problem 2](https://leetcode.com/problems/example) 🟢 Easy
+
+  </details>
+
+  <details>
+    <summary>Medium Problems</summary>
+
+  - [Problem 3](https://leetcode.com/problems/example) 🟡 Medium
+  - [Problem 4](https://leetcode.com/problems/example) 🟡 Medium
+
+  </details>
+
+  <details>
+    <summary>Hard Problems</summary>
+
+  - [Problem 5](https://leetcode.com/problems/example) 🔴 Hard
+  - [Problem 6](https://leetcode.com/problems/example) 🔴 Hard
+
+  </details>
+
+</details>
