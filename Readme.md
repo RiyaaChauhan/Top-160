@@ -408,6 +408,24 @@ Welcome to the **Grind 75** challenge! This repository contains a structured pla
 
 </details>
 
+<details>
+  <summary><strong>📌 Week 4 (0 / 11 Completed)</strong></summary>
+
+| #  | Problem                                                | Difficulty | Time    |
+|----|--------------------------------------------------------|------------|---------|
+| 1  | [3Sum](#)                                             | Medium     | 30 mins |
+| 2  | [Binary Tree Level Order Traversal](#)                 | Medium     | 20 mins |
+| 3  | [Clone Graph](#)                                      | Medium     | 25 mins |
+| 4  | [Evaluate Reverse Polish Notation](#)                 | Medium     | 30 mins |
+| 5  | [Course Schedule](#)                                  | Medium     | 30 mins |
+| 6  | [Implement Trie (Prefix Tree)](#)                     | Medium     | 35 mins |
+| 7  | [Coin Change](#)                                      | Medium     | 25 mins |
+| 8  | [Product of Array Except Self](#)                     | Medium     | 30 mins |
+| 9  | [Min Stack](#)                                        | Medium     | 20 mins |
+| 10 | [Validate Binary Search Tree](#)                      | Medium     | 20 mins |
+| 11 | [Number of Islands](#)                                | Medium     | 25 mins |
+</details>
+
 ---
 
 ### ✅ Keep Going!
